@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siute name="testcases">
+<test name="users ans products">
+<classes>
+<class name="com.sgtesting.users.users"></class>
+<class name="com.sgtesting.products.products"></class>
+</classes>
+</test>
+</siute>
